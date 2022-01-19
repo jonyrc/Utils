@@ -1,2 +1,2 @@
 # Utils
-Useful functions with javascript
+Useful functions with JavaScript
